@@ -28,11 +28,11 @@ Você pode jogar diretamente abrindo o arquivo `index.html` no navegador.
 
 ## 📌 Funcionalidades
 
-✅-  Embaralhamento aleatório das cartas
-✅-  Efeito de flip 3D ao abrir uma carta
-✅-  Verificação automática de pares
-✅-  Mensagem de vitória ao completar o jogo
-✅-  Botão para resetar a partida
+-  Embaralhamento aleatório das cartas
+-  Efeito de flip 3D ao abrir uma carta
+-  Verificação automática de pares
+-  Mensagem de vitória ao completar o jogo
+-  Botão para resetar a partida
 
 ## 🧠 Melhorias Futuras
 
