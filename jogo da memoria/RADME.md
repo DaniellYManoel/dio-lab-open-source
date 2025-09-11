@@ -26,7 +26,7 @@ Você pode jogar diretamente abrindo o arquivo `index.html` no navegador.
 
 ---
 
-##📌 Funcionalidades
+## 📌 Funcionalidades
 
 ✅ Embaralhamento aleatório das cartas
 ✅ Efeito de flip 3D ao abrir uma carta
@@ -34,7 +34,7 @@ Você pode jogar diretamente abrindo o arquivo `index.html` no navegador.
 ✅ Mensagem de vitória ao completar o jogo
 ✅ Botão para resetar a partida
 
-##🧠 Melhorias Futuras
+## 🧠 Melhorias Futuras
 
 . Adicionar cronômetro e contador de movimentos
 . Criar diferentes níveis de dificuldade
